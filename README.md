@@ -1,2 +1,2 @@
 # Horror-Game
-Game criado para testes e simulações de códigos e programação... Compilado usando o app Aide!
+Game criado para testes e simulações de códigos com programação... Compilado usando o app Aide!
